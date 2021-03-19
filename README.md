@@ -1,9 +1,9 @@
 # HotelEntryExam
-###Backend: 
+### Backend: 
 NodeJS
-###Frontend: 
+### Frontend: 
 AngularJS
-###Database:
+### Database:
 MySQL
 
 #Database Notes
