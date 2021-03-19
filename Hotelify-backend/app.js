@@ -8,8 +8,9 @@ app.use(bodyParser.json());
 app.use(methodOverride());
 
 var router = express.Router();
+const routes = require('./routes/routes')
 
-router.get('/', function (req, res) {
+app.get('/', function (req, res) {
 
     res.send("It Works!");
 
