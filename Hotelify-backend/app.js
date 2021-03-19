@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Movify app listening at http://localhost:${port}`)
+    console.log(`Hotelify app listening at http://localhost:${port}`)
 })
